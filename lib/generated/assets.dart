@@ -3,6 +3,7 @@ class Assets {
   Assets._();
 
   static const String assetsBuxoro = 'assets/buxoro.jpeg';
+  static const String assetsQashqadaryo = 'assets/qashqadaryo.jpeg';
   static const String assetsSamarqand = 'assets/samarqand.jpeg';
   static const String assetsXiva = 'assets/xiva.jpeg';
 
